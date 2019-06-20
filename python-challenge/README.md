@@ -11,6 +11,8 @@ Analyze the dataset for a company budget (budget_data.csv) to discover:
   * The greatest increase in profits (date and amount) over the entire period
   * The greatest decrease in losses (date and amount) over the entire period
   
+ ![Financial Analysis](PC_Images/Financial_Analysis_Results.png)
+  
 
 ## Pypoll
 Use Python scripting to speed up the counting of the [election_data](PyPoll/Resources/election_data.csv) from a small town by calculating each of the following:
@@ -24,3 +26,6 @@ Use Python scripting to speed up the counting of the [election_data](PyPoll/Reso
   * The total number of votes each candidate won
 
   * The winner of the election based on popular vote.
+  
+ 
+![Vote Count](PC_Images/PyPoll_Results.png)
